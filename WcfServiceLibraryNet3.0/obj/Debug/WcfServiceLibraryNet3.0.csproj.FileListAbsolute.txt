@@ -1,0 +1,12 @@
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceLibraryNet3.0\bin\Debug\WcfServiceLibraryNet30.dll.config
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceLibraryNet3.0\bin\Debug\WcfServiceLibraryNet30.dll
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceLibraryNet3.0\bin\Debug\WcfServiceLibraryNet30.pdb
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceLibraryNet3.0\obj\Debug\WcfServiceLibraryNet30.dll
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceLibraryNet3.0\obj\Debug\WcfServiceLibraryNet30.pdb
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceLibraryNet3.0\obj\Debug\WcfServiceLibraryNet3.0.csprojResolveAssemblyReference.cache
+C:\Source\Tech Friday\WcfServiceLibraryNet3.0\bin\Debug\WcfServiceLibraryNet30.dll.config
+C:\Source\Tech Friday\WcfServiceLibraryNet3.0\bin\Debug\WcfServiceLibraryNet30.dll
+C:\Source\Tech Friday\WcfServiceLibraryNet3.0\bin\Debug\WcfServiceLibraryNet30.pdb
+C:\Source\Tech Friday\WcfServiceLibraryNet3.0\obj\Debug\WcfServiceLibraryNet3.0.csprojResolveAssemblyReference.cache
+C:\Source\Tech Friday\WcfServiceLibraryNet3.0\obj\Debug\WcfServiceLibraryNet30.dll
+C:\Source\Tech Friday\WcfServiceLibraryNet3.0\obj\Debug\WcfServiceLibraryNet30.pdb

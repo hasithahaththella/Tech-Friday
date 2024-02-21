@@ -1,0 +1,8 @@
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\bin\Debug\WindowsFormsDotNet20.exe
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\bin\Debug\WindowsFormsDotNet20.pdb
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\obj\Debug\WindowsFormsDotNet20.csprojResolveAssemblyReference.cache
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\obj\Debug\WindowsFormsDotNet20.Form1.resources
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\obj\Debug\WindowsFormsDotNet20.Properties.Resources.resources
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\obj\Debug\WindowsFormsDotNet20.csproj.GenerateResource.Cache
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\obj\Debug\WindowsFormsDotNet20.exe
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WindowsFormsDotNet20\obj\Debug\WindowsFormsDotNet20.pdb

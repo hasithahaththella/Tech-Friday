@@ -1,0 +1,5 @@
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\ConsoleApplicationDotNet20\bin\Debug\ConsoleApplicationDotNet20.exe
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\ConsoleApplicationDotNet20\bin\Debug\ConsoleApplicationDotNet20.pdb
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\ConsoleApplicationDotNet20\obj\Debug\ConsoleApplicationDotNet20.csprojResolveAssemblyReference.cache
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\ConsoleApplicationDotNet20\obj\Debug\ConsoleApplicationDotNet20.exe
+c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\ConsoleApplicationDotNet20\obj\Debug\ConsoleApplicationDotNet20.pdb
