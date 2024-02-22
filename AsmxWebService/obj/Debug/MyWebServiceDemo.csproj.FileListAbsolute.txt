@@ -1,5 +1,0 @@
-E:\DemoProjects\Blog\MyWebServiceDemo\MyWebServiceDemo\bin\MyWebServiceDemo.dll
-E:\DemoProjects\Blog\MyWebServiceDemo\MyWebServiceDemo\bin\MyWebServiceDemo.pdb
-E:\DemoProjects\Blog\MyWebServiceDemo\MyWebServiceDemo\obj\Debug\MyWebServiceDemo.csprojResolveAssemblyReference.cache
-E:\DemoProjects\Blog\MyWebServiceDemo\MyWebServiceDemo\obj\Debug\MyWebServiceDemo.dll
-E:\DemoProjects\Blog\MyWebServiceDemo\MyWebServiceDemo\obj\Debug\MyWebServiceDemo.pdb

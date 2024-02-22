@@ -1,6 +1,0 @@
-C:\Source\Tech Friday\AspNetWebApplicationDotNet30\bin\AspNetWebApplicationDotNet30.dll.config
-C:\Source\Tech Friday\AspNetWebApplicationDotNet30\bin\AspNetWebApplicationDotNet30.dll
-C:\Source\Tech Friday\AspNetWebApplicationDotNet30\bin\AspNetWebApplicationDotNet30.pdb
-C:\Source\Tech Friday\AspNetWebApplicationDotNet30\obj\Debug\AspNetWebApplicationDotNet30.csprojResolveAssemblyReference.cache
-C:\Source\Tech Friday\AspNetWebApplicationDotNet30\obj\Debug\AspNetWebApplicationDotNet30.dll
-C:\Source\Tech Friday\AspNetWebApplicationDotNet30\obj\Debug\AspNetWebApplicationDotNet30.pdb

@@ -1,5 +1,0 @@
-C:\Source\Tech Friday\ASMX\AsmxWebService\bin\AsmxWebService3_5.dll.config
-C:\Source\Tech Friday\ASMX\AsmxWebService\bin\AsmxWebService3_5.dll
-C:\Source\Tech Friday\ASMX\AsmxWebService\bin\AsmxWebService3_5.pdb
-C:\Source\Tech Friday\ASMX\AsmxWebService\obj\Debug\AsmxWebService3_5.dll
-C:\Source\Tech Friday\ASMX\AsmxWebService\obj\Debug\AsmxWebService3_5.pdb

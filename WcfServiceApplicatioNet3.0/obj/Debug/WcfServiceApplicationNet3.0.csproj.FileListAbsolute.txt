@@ -1,6 +1,0 @@
-c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceApplicatioNet3.0\obj\Debug\WcfServiceApplicationNet3.0.csprojResolveAssemblyReference.cache
-c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceApplicatioNet3.0\bin\WcfServiceApplicationNet3.0.dll.config
-c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceApplicatioNet3.0\bin\WcfServiceApplicationNet3.0.dll
-c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceApplicatioNet3.0\bin\WcfServiceApplicationNet3.0.pdb
-c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceApplicatioNet3.0\obj\Debug\WcfServiceApplicationNet3.0.dll
-c:\users\hhaththella\documents\visual studio 2015\Projects\dotNetUpgradeAssistant\WcfServiceApplicatioNet3.0\obj\Debug\WcfServiceApplicationNet3.0.pdb
